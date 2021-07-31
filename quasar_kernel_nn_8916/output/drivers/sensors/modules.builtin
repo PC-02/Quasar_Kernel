@@ -1,0 +1,3 @@
+kernel/drivers/sensors/k2hh.ko
+kernel/drivers/sensors/cm36672p.ko
+kernel/drivers/sensors/sx9310.ko
